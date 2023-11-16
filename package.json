@@ -1,7 +1,7 @@
 {
-  "name": "week6.server",
+  "name": "Week 6 Challenge",
   "version": "1.0.0",
-  "description": "Server Week 6 del Bootcamp",
+  "description": "Week 6 - Challenge",
   "type": "module",
   "main": "index.js",
   "scripts": {
